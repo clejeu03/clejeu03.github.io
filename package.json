@@ -18,5 +18,11 @@
     "gulp-postcss": "~6.0.0",
     "gulp-rename": "~1.2.2",
     "gulp-sass": "^2.0.4"
+  },
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-image-resize": "^0.7.1",
+    "gulp-imagemin": "^2.4.0",
+    "multer": "^1.1.0"
   }
 }

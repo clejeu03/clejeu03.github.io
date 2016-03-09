@@ -9,9 +9,9 @@ permalink:           /:title
 # Setup
 timezone:            Europe/Paris # eg. Asia/Kathmandu
 locale:              en_us # eg. en_us
-name:				         CeciliaVRBlog
-title:               CeciliaVRBlog
-tagline:             'tagline'
+name:				         Cecilia Lejeune
+title:               experience machine
+tagline:             'a VR blog'
 description:         'description'
 url:                 blog.cecilialejeune.com
 rss:                 blog.cecilialejeune.com/feed
@@ -20,8 +20,10 @@ baseurl_posts_img:   '/assets/images/posts/'
 baseurl_featured_img: '/assets/images/hero/'
 baseurl_featured_thumbnail: '/assets/images/thumbnail/'
 baseurl_javascripts: '/assets/javascripts/'
-icon:                 '/assets/img/icon.png' #[best 300px X 300px]
+#icon:                 #'/assets/img/icon.png' #[best 300px X 300px]
 disqus:              disqus_shortname # get it on https://disqus.com/admin/
+
+imageMagick: true
 
 author:
   name:           	 Cécilia Lejeune

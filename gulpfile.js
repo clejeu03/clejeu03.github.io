@@ -1,3 +1,4 @@
+require('es6-promise').polyfill();
 var gulp = require('gulp'),
     browserSync = require('browser-sync').create(),
     sass = require('gulp-sass'),
