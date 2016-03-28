@@ -28,10 +28,10 @@ imageMagick: true
 author:
   name:           	 Cécilia Lejeune
   url:            	 cecilialejeune.com
-  facebook:          https://www.facebook.com/cecilia.lejeune
-  twitter:           https://twitter.com/LejeuneCecilia
-  google_plus:       http://google.com/+CéciliaLEJEUNE
-  linkedin:          https://fr.linkedin.com/in/cecilialejeune
+  facebook:          cecilia.lejeune
+  twitter:           LejeuneCecilia
+  google_plus:       +CéciliaLEJEUNE
+  linkedin:          cecilialejeune
 
 fb_admins:           your facebook profile id
 fb_appid:            your facebook app id
