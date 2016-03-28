@@ -4,7 +4,7 @@ markdown:            redcarpet
 highlighter:         pygments
 
 # Permalinks
-permalink:           /:title
+permalink:           :title
 
 # Setup
 timezone:            Europe/Paris # eg. Asia/Kathmandu
@@ -20,8 +20,8 @@ baseurl_posts_img:   '/assets/images/posts/'
 baseurl_featured_img: '/assets/images/hero/'
 baseurl_featured_thumbnail: '/assets/images/thumbnail/'
 baseurl_javascripts: '/assets/javascripts/'
-#icon:                 #'/assets/img/icon.png' #[best 300px X 300px]
-disqus:              disqus_shortname # get it on https://disqus.com/admin/
+icon:                 '/assets/img/icon.png' #[best 300px X 300px]
+disqus:              experiencemachine # get it on https://disqus.com/admin/
 
 imageMagick: true
 
@@ -32,6 +32,9 @@ author:
   twitter:           https://twitter.com/LejeuneCecilia
   google_plus:       http://google.com/+CéciliaLEJEUNE
   linkedin:          https://fr.linkedin.com/in/cecilialejeune
+
+fb_admins:           your facebook profile id
+fb_appid:            your facebook app id
 
 # Server
 destination:      	 ./_site
