@@ -13,6 +13,8 @@ bgContrast: dark
 bgGradientOpacity: darker
 syntaxHighlighter: no
 ---
+Plop, patafoin
+
 Source: [Wikipedia](https://en.wikipedia.org/wiki/Walt_Disney)
 
 Walter Elias "Walt" Disney (/ˈdɪzni/; December 5, 1901 – December 15, 1966) was an American entrepreneur, cartoonist, animator, voice actor, and film producer. As a prominent figure within the American animation industry and throughout the world, he is regarded as a cultural icon, known for his influence and contributions to entertainment during the 20th century. As a Hollywood business mogul, he and his brother Roy O. Disney co-founded The Walt Disney Company.
