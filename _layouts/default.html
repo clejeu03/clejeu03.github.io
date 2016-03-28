@@ -12,11 +12,11 @@
 
     {{ content }}
 
-    {% if page.url != '' %}
+    {% if page.url != '/' %}
       {% include sidebar-toggle.html %}
     {% endif %}
 
-    {% if page.url == '' %}
+    {% if page.url == '/' %}
       {% include subscribe.html %}
       {% include footer.html %}
     {% endif %}
