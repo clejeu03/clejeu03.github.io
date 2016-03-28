@@ -14,7 +14,7 @@ title:               experience machine
 tagline:             'a VR blog'
 description:         'description'
 url:                 blog.cecilialejeune.com
-rss:                 blog.cecilialejeune.com/feed
+rss:                 /feed
 baseurl:             '/'
 baseurl_posts_img:   '/assets/images/posts/'
 baseurl_featured_img: '/assets/images/hero/'
