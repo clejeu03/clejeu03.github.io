@@ -556,8 +556,8 @@ body {
           transform: translateX(-50%);
   z-index: 500;
   margin: 0;
-  width: 561px;
-  height: 36px;
+  width: 276px;
+  height: 50px;
   background-size: 100%;
   background-position: 0;
   opacity: 0.9;
@@ -566,8 +566,8 @@ body {
 
 @media (max-width: 767px) {
   .textLogo--frontpage {
-    width: 296px;
-    height: 18px;
+    width: 182px;
+    height: 33px;
     top: 99px;
   }
 }
