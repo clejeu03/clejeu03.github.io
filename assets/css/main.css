@@ -556,8 +556,8 @@ body {
           transform: translateX(-50%);
   z-index: 500;
   margin: 0;
-  width: 276px;
-  height: 50px;
+  width: 561px;
+  height: 36px;
   background-size: 100%;
   background-position: 0;
   opacity: 0.9;
@@ -2101,13 +2101,8 @@ body {
 .socialAccountList {
   list-style: none;
   margin: 1.5rem auto;
-  /*padding-left: 0;*/
-  width: 100%;
-}d
-
-ul.socialAccountList li {
-  display : inline-block;
-  padding : 0 10px 0 10px;
+  padding-left: 0;
+  width: 50%;
 }
 
 .socialAccountList:before, .socialAccountList:after {
