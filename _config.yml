@@ -11,9 +11,9 @@ timezone:            Europe/Paris # eg. Asia/Kathmandu
 locale:              en_us # eg. en_us
 name:				         Cecilia Lejeune
 title:               experience machine
-tagline:             'a VR blog'
+tagline:             'a blog about VR'
 description:         'description'
-url:                 blog.cecilialejeune.com
+url:                 experiencemachine.cecilialejeune.com
 rss:                 /feed
 baseurl:             '/'
 baseurl_posts_img:   '/assets/images/posts/'
