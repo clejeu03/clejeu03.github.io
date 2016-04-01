@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "Retour d'expérience du Vision Summit 2016"
+date:   2016-02-26 01:00:00
+date:   2016-02-26 01:00:00
+excerpt: "il y a deux semaines, j’étais sous les 30° et les palmiers de Los Angeles pour assister au Vision Summit. Qu’est-ce que je faisais là-bas plutôt qu’à la plage me direz-vous ?..."
+categories: event
+tags:  vision summit, unity
+image:
+  feature: mickey-comics.jpg
+  topPosition: -100px
+bgContrast: dark
+bgGradientOpacity: darker
+syntaxHighlighter: no
+---
+il y a deux semaines, j’étais sous les 30° et les palmiers de Los Angeles pour assister au Vision Summit. Qu’est-ce que je faisais là-bas plutôt qu’à la plage me direz-vous ?
