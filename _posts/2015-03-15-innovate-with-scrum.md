@@ -18,31 +18,32 @@ In RIT Paris, we use an adapted Scrum Method to manage our development. Here is 
 ### Why we decided to use Scrum ?
 The Agile Methods are used by many developers worldwide, in small teams as well as in very big teams. Those methods have proven themselves efficient for the developers, for the clients and for the manager to get the product delivered in time and accordingly to the client's need. The Scrum Method is the most known among those Agile Methods. The iterative aspect of this method allow the team to be flexible and to respond to change in times and to provide high quality with a smart prioritization of tasks.
 
-There are three pillars that need to be reminded to every member of a scrum team : 
-1. **The Feedbacks** : the continuous measure of progresses is the key to find a match between user requirements and the team capacities
-2. **The Demos** : each and every sprint must be closed with a visual/runnable demo so everyone, client and team, can see the work's progresses
-3. **The Cross-Functionnal** Team : every member is involved from the beginning to the end of the project, regardless of his skills and background
+There are three pillars that need to be reminded to every member of a scrum team :
+- The Feedbacks : the continuous measure of progresses is the key to find a match between user requirements and the team capacities
+- The Demos: each and every sprint must be closed with a visual/runnable demo so everyone, client and team, can see the work's progresses
+- The Cross-Functionnal Team : every member is involved from the beginning to the end of the project, regardless of his skills and background
 
-> In this post, I will not detailed what is Scrum and how it works. I will focus on its adaptation for the needs of a R&D team, and assume you are familiar you the vocabulary and the process.
->There are plenty of resources all other the web about Scrum that you can visit if you are interested. For example :
-> - [a very complete pdf guide](http://scrumreferencecard.com/ScrumReferenceCard.pdf) by Michael James
-> - [a series of introduction videos to Scrum](https://www.youtube.com/watch?v=D8vT7G0WATM) by Collabnet
-> - [the official website about Scrum Method](https://www.scrumalliance.org/why-scrum)
+``` In this post, I will not detailed what is Scrum and how it works. I will focus on its adaptation for the needs of a R&D team, and assume you are familiar you the vocabulary and the process.
+There are plenty of resources all other the web about Scrum that you can visit if you are interested. For example :
+ - [a very complete pdf guide](http://scrumreferencecard.com/ScrumReferenceCard.pdf) by Michael James
+ - [a series of introduction videos to Scrum](https://www.youtube.com/watch?v=D8vT7G0WATM) by Collabnet
+ - [the official website about Scrum Method](https://www.scrumalliance.org/why-scrum)
+```
 
 ### Prior to a new Scrum process
 It all begins with an idea, right ? In RIT we decided that if a member have a new idea, then this member becomes automatically Project Manager of this project. Scrum is meant for teams approximately from 3 to 8 people, so you can't launch your project alone. 
 
 #### 1. Determine the roles
 
-**The Product Owner (PO) - the What**
+** The Product Owner (PO) - the What **
 
 He is interfacing the Team with the Client, if he exists. If not, he defines what the project should do and show. He has the role of an external point of view on the project. And he works with the Project Manager and the Team so the Product Backlog reflects the needed features. It is his responsibility to consider which activities will produce the most business value, but he is not a developer in that project.
 
-**The Project Manager (PM) - the How**
+** The Project Manager (PM) - the How **
 
 Project Manager is the leader of the development team, and often the creator of the project. In Scrum process, the Team manages itself, but the Project Manager has a vision of the project, that he assess with the Product Owner external insights. He is the technical leader of the project, and a developer on it.
 
-**The Scrum Master (we don't use that role)**
+** The Scrum Master (we don't use that role) **
 
 The Scrum Master does everything he / she can to facilitate productivity, to help the team perform at their highest level. This involves removing any impediments to progress, facilitating meetings, and doing things like working with the Product Owner to make sure the product backlog is in good shape and ready for the next sprint. He is often seen as a coach for the Team.
 
