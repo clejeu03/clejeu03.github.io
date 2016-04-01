@@ -61,7 +61,7 @@ With that definition under the shape of a list of feature you want your product 
 ### The Sprint Planning
 At the beginning and the end of each sprint, the planning and the retrospective meetings are mandatory for every member of the Team, and the Product Owner and Project Manager. What is concretly a Sprint Planning meeting content :
 1. The Product Owner has updated the priority of the User Stories before the meeting
-+. Each Team member present its availibility for the coming sprint (ex : "i will be 50% on this project only")
+2. Each Team member present its availibility for the coming sprint (ex : "i will be 50% on this project only")
 +. The Project Manager takes the highest User Storie in the Product Backlog and detail it the entire Team, answer questions if there are.
 +. Then the Team breaks down the User Story into small measurable technical tasks and the Project Manager writes them all 
 +. All together they estimate the tasks
@@ -76,7 +76,8 @@ At RIT we use JIRA for project management and issue tracking, like all Rakuten t
 This display our burndown charts for every project and the current status of all the project of the team. Thoses charts are directly linked the Story Point with which we estimate the tasks.
 
 ### The Story Points VS the Man-Hour
-<div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}story-point.png);"></div>
+<div class="img img--fullContainer" style="background-image: url({{ site.baseurl_posts_img }}story-point.png);"></div>
 We decided to use the abstract Story-Point. A good key to correctly estimate tasks is to pick the biggest and the smallest tasks : they will be markers to size the backlog, respectively of 1 to 8 or 13 story points. Other tasks are relative.
 
-<blockquote class="largeQuote">The most tricky part for us and still the most important thing to remember is : a Sprint cannot be changed once its started</blockquote>
+The most tricky part for us and still the most important thing to remember is : 
+<blockquote class="largeQuote"> a Sprint cannot be changed once its started</blockquote>
