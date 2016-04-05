@@ -76,8 +76,8 @@ At RIT we use JIRA for project management and issue tracking, like all Rakuten t
 This display our burndown charts for every project and the current status of all the project of the team. Thoses charts are directly linked the Story Point with which we estimate the tasks.
 
 ### The Story Points VS the Man-Hour
-<div class="img img--fullContainer" style="background-image: url({{ site.baseurl_posts_img }}story-point.png);"></div>
+<div class="img" style="background-image: url({{ site.baseurl_posts_img }}story-point.png);"></div>
 We decided to use the abstract Story-Point. A good key to correctly estimate tasks is to pick the biggest and the smallest tasks : they will be markers to size the backlog, respectively of 1 to 8 or 13 story points. Other tasks are relative.
 
-The most tricky part for us and still the most important thing to remember is : 
-<blockquote class="largeQuote"> a Sprint cannot be changed once its started</blockquote>
+The most tricky part for us and still the most important thing to remember is that...
+<blockquote class="largeQuote"> ...a Sprint cannot be changed once its started</blockquote>
