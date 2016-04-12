@@ -15,6 +15,8 @@ syntaxHighlighter: no
 
 La réalité virtuelle prends un envol bien plus marqué que lors de sa première « naissance » . Quel avenir pour les conteurs d’histoires ?
 
+WORK IN PROGRESS
+
 Père Castor dans l'Oculus
 
 - Monter le décor

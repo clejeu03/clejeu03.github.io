@@ -17,4 +17,4 @@ For celebrating women who work in tech, Google organize each year around the wor
 
 As a women in tech myself, I wanted to take advantage of my little space on the web to share my experience about beeing a woman in a computer science school, in a research laboratory and in a R&D center.
 
-WIP
+WORK IN PROGRESS

@@ -14,6 +14,9 @@ bgGradientOpacity: darker
 syntaxHighlighter: no
 ---
 
+
+WORK IN PROGRESS 
+
 En tant qu'association démonstratrice de réalité virtuelle nous avons l'occasion de vivre les premières immersions dun panel d'utilisateurs très différents, ce qui nous met aux premières lignes pour prendre la température des opinions et avis. Voici quelques bonnes pratiques et leçons apprises de ces moments d'humanité autour de la réalité virtuelle.
 
 - motion sickness : à part des incohérences extrêmes et reconnues, beaucoup moins de nausées et inconfort.

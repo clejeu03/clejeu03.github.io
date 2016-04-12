@@ -15,6 +15,8 @@ syntaxHighlighter: no
 ---
 La réalité virtuelle est un outil de socialisation. Le mode zombie existera-t-il bientôt dans notre réalité ?
 
+WORK IN PROGRESS
+
 <blockquote class="largeQuote">“Don't Stress Over Anything You Can't Change.” <br/>- Mickey Mouse</blockquote>
 
 Les craintes viennent de la barrière / oeillère que constitue le casque de réalité virtuelle. Et si le casque transparent ou mirroir existait, est-ce que cette crainte serait toujours autant présente ? 
