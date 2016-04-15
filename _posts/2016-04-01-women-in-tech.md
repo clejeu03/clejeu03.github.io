@@ -15,6 +15,6 @@ syntaxHighlighter: no
 ---
 For celebrating women who work in tech, Google organize each year around the world a gathering of local women to share role model. This event was a success as it contributed to create a community from a group of women who didn't heard about the Women Techmaker organization before entering the event. 
 
-As a women in tech myself, I wanted to take advantage of my little space on the web to share my experience about beeing a woman in a computer science school, in a research laboratory and in a R&D center.
+As a women in tech myself, I wanted to take advantage of my little space on the web to share my different experiences about beeing a woman in a computer science school, in a research laboratory and in a R&D center.
 
 WORK IN PROGRESS
