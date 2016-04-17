@@ -16,7 +16,7 @@ syntaxHighlighter: no
 
 As an organization which often presents virtual reality demos, we have regularly the opportunity to witness the very first immersion of several different people, and this puts us in the first line to gather opinions and first reactions. There are some basics to know for taking some stranger into his first tour in virtual reality, and to help this person to make the best out of the experience. The following are what we learnt and try to apply, there are many others guidelines that we don't know, as we are ourselves developers and used to virtual reality. The point of these guidelines is to keep beside a virtual reality demonstration a moment of humanity with the user. 
 
-### Guidelines for a nice demo time
+## Guidelines to adapt to your public
 
 #### Teens 
 
@@ -35,19 +35,19 @@ Old people lack the confidence of the youngers about technology, because they si
 In many cases, those who have not enjoyed the experience (and do not tell us of course, but we still hear them talking to their friends) did not understood the gameplay or have been facing a bug and did not understood that it was a bug, and then did not dare to ask for help to volunteers. They prefer to give it back to you, and leave, until you figure out that they never passed the launch menu. Shyness facing volunteers is a problem of our making, and we need to work on confidence between volunteers and users.
 
 
-<div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}feedback-users.jpg);"></div>
+<div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}feedback-users.jpg);">At Laval Virtual 2016, copyright Manuel Jordan</div>
 
-## As for the quick takeway of user's feedbacks we received :
+## As for the user's feedbacks we received :
 
  - **Motion sickness was due to the developers !** Apart from extreme and well-known inconsistencies, there are globally a lot less nausea and discomfort. Three years ago, motion sickness was the dragon every VR developer was affraid of. Nowadays, 1 person out of 10 or maybe 15 among our new users, experiences motion sickness. Why is that ? Because developers learnt from their mistakes and started to offer well suited navigation and exploration means. The list of direct-path-to-sickness interfaces and interactions is well known and avoided. 
 
  - For many people, **"Oculus" is a commun noun for all the virtual reality headset**, or the "dark box you put on your head to see stuff". They do make the difference between a headset that uses a smartphone and a headset that uses a computer. When we unmount the S7 from the Gear, they suddenly figure it out and ask the difference bewteen both. But as the answer is based on technical specifications, they don't fully get it. 
 
- - There are few experiences more social than a virtual reality test. We often see friends or family making fun of the user while his is turning around to see an invisible object, or when he expresses feelings like surprise, joy or fear. Discussions, pictures, and even tactile interactions happen around and with the user.  
+ - There are **few experiences more social than a virtual reality test**. We often see friends or family making fun of the user while his is turning around to see an invisible object, or when he expresses feelings like surprise, joy or fear. Discussions, pictures, and even tactile interactions happen around and with the user.  
 
- - Sometimes, not very often, people remove the headset, looking at us with a real deep astonishement, and saying that the potential is huge, that this new media opens the door to borderless possibilities for that or that other experiences. We are so happy when someones tell us that, and to guide him to buy one, or get more informations. It is for us a special experience to witness the before and the after of a new VR beleiver ! Most of the case, users are happy, but they react like they did for the Kinect I thing : they want it into their living room to play some stuff at friday nights with friends, but they do not forecast the other applications.
+ - Sometimes, not very often, people remove the headset, looking at us with a real deep astonishement, and saying that the potential is huge, that this new media opens the door to borderless possibilities for that or that other experiences. We are so happy when someones tell us that, and to guide him to buy one, or get more informations. It is for us a special experience to **witness the before and the after of a new VR beleiver !** Most of the case, users are happy, but they react like they did for the Kinect I thing : they want it into their living room to play some stuff at friday nights with friends, but they do not forecast the other applications.
 
-- When they know we're at a salon or a festival, people come mainly test the technology, because you know, virtual reality is fashion. At no time for them the content is interesting. And consequently they judge the hardware for the content they have tested. Those who have tested several experiments envision the added value of one content over another but are unable to appreciate the need to adapt the experience to the helmet and its controllers if any.
+- When they know we're at a salon or a festival, people come mainly test the technology, because you know, virtual reality is fashion. At no time for them the content is interesting. And consequently **they judge the hardware for the content they have tested**. Those who have tested several experiments envision the added value of one content over another but are unable to appreciate the need to adapt the experience to the helmet and its controllers if any.
 
 And always explain to the people that nothing is better than the experience of a virtual reality application. 
 <blockquote class="u--startsWithDoubleQuote">“"I hear and I forget. I see and I remeber. I do and I understand. "<br/>- Confucius</blockquote>
