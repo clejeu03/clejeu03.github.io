@@ -6,7 +6,7 @@ excerpt: "La réalité virtuelle prends un envol bien plus marqué que lors de s
 categories: opinion
 tags:  storytelling, study
 image:
-  feature: mickey-1940.jpg
+  feature: samsung.jpg
   topPosition: -200px
 bgContrast: dark
 bgGradientOpacity: darker
@@ -49,3 +49,5 @@ Père Castor dans l'Oculus
 
 Comme Alex McDowell le dit si bien...
 Les conteurs historiquement seul détenteur du pouvoir de faire voyager, ont laissé place à une multitude de spécialités qui forment aujourd’hui le cinéma. Cette façon de créer de front plusieurs aspects d’une même histoire par des personnes différentes et propre à ce mode de narration. Mais lorsque l’on parle de réalité virtuelle, il faut tout réinventer. Le futur du storytelling, ne sera ni le portage de notre cinéma actuel que l’on connait au médium de la réalité virtuelle, ni les vidéos 360 qui fleurissent partout, mais ce sera quelque chose d’autre, qu’on ne peut pas voir de là où l’on se trouve dans l’histoire de la réalité virtuelle. Le storytelling est la base du médium, et est la clé de voute de l’ensemble des expériences immersions que l’on propose en réalité virtuelle. Toutes les applications, de la formation à l’art, devrait l’utiliser comme base ?
+
+*Credit Title Picture : [https://www.facebook.com/ValentinMichalakPhoto/](Valentin Michalak) , at the Laval Virtual 2016*

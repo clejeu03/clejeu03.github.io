@@ -52,3 +52,5 @@ In many cases, those who have not enjoyed the experience (and do not tell us of 
 And always explain to the people that nothing is better than the experience of a virtual reality application. 
 <blockquote class="u--startsWithDoubleQuote">“"I hear and I forget. I see and I remeber. I do and I understand. "<br/>- Confucius</blockquote>
 Confucius wasn't exactly thinking about virtual reality and he said that I guess, but anyway it applies perfectly to it. "Doing" a virtual reality experience is the only way to understand it.
+
+*Credit Title Picture : [http://manueljordan.fr/](Manuel Jordan), at the Laval Virtual 2016*
