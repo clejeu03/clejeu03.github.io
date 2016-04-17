@@ -2,10 +2,10 @@
 layout: post
 title:  "Feedback from presenting VR demos"
 date:   2016-03-22 01:00:00
-last_modified_at:  2016-03-22 01:00:00
+last_modified_at:  2016-03-28 01:00:00
 excerpt: "As an organization which often presents virtual reality demos, we have regularly the opportunity to witness the very first immersion of several different people, and this puts us in the first line..."
-categories: testimony
-tags:  feedbacks, testimony
+categories: feedback
+tags:  feedback, testimony
 image:
   feature: feedback-demos.jpg
   topPosition: 0px
@@ -14,7 +14,7 @@ bgGradientOpacity: darker
 syntaxHighlighter: no
 ---
 
-As an organization which often presents virtual reality demos, we have regularly the opportunity to witness the very first immersion of several different people, and this puts us in the first line to gather opinions and first reactions. There are some basics to know for taking some stranger into his first tour in virtual reality, and to help this person to make the best out of the experience. The following are what we learnt and try to apply, there are many others guidelines that we don't know, as we are ourselves developers and used to virtual reality. The point of these guidelines is to keep beside a virtual reality demonstration a moment of humanity with the user. 
+As an organization which presents virtual reality demos, we have regularly the opportunity to witness the very first immersion of several different people, and this puts us in the first line to gather opinions and first reactions. There are some basics to know for taking some stranger into his first tour in virtual reality, and to help this person to make the best out of the experience. The following are what we learnt and try to apply, there are many others guidelines that we don't know, as we are ourselves developers and used to virtual reality. The point of these guidelines is to keep beside a virtual reality demonstration a moment of humanity with the user. 
 
 ## Guidelines to adapt to your public
 
@@ -35,7 +35,7 @@ Old people lack the confidence of the youngers about technology, because they si
 In many cases, those who have not enjoyed the experience (and do not tell us of course, but we still hear them talking to their friends) did not understood the gameplay or have been facing a bug and did not understood that it was a bug, and then did not dare to ask for help to volunteers. They prefer to give it back to you, and leave, until you figure out that they never passed the launch menu. Shyness facing volunteers is a problem of our making, and we need to work on confidence between volunteers and users.
 
 
-<div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}feedback-users.jpg);">At Laval Virtual 2016, copyright Manuel Jordan</div>
+<div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}feedback-users.jpg);"></div>At Laval Virtual 2016, copyright Manuel Jordan
 
 ## As for the user's feedbacks we received :
 

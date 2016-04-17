@@ -7,7 +7,7 @@ excerpt: "For celebrating women who work in tech, Google organize each year arou
 categories: event
 tags:  Google, WIT16
 image:
-  feature: steamboat.jpg
+  feature: women-techmakers.jpg
   topPosition: -50px
 bgContrast: dark
 bgGradientOpacity: darker

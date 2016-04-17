@@ -7,7 +7,7 @@ excerpt: "In RIT Paris, we use an adapted Scrum Method to manage our development
 categories: methodology
 tags:  project management, scrum method, R&D
 image:
-  feature: mickey-1929.jpg
+  feature: post-its.jpg
   topPosition: -50px
 bgContrast: dark
 bgGradientOpacity: darker
