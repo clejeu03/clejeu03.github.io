@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Petits retours terrain"
+title:  "Feedback from presenting VR demos"
 date:   2016-03-22 01:00:00
 last_modified_at:  2016-03-22 01:00:00
-excerpt: "En tant qu'association démonstratrice de réalité virtuelle nous avons l'occasion de vivre les premières immersions de baucoup de personnes, ce qui nous met aux premières lignes..."
+excerpt: "As an organization which often presents virtual reality demos, we have regularly the opportunity to witness the very first immersion of several different people, and this puts us in the first line..."
 categories: testimony
 tags:  feedbacks, testimony
 image:
@@ -16,9 +16,13 @@ syntaxHighlighter: no
 
 As an organization which often presents virtual reality demos, we have regularly the opportunity to witness the very first immersion of several different people, and this puts us in the first line to gather opinions and first reactions. There are some basics to know for taking some stranger into his first tour in virtual reality, and to help this person to make the best out of the experience. The following are what we learnt and try to apply, there are many others guidelines that we don't know, as we are ourselves developers and used to virtual reality. The point of these guidelines is to keep beside a virtual reality demonstration a moment of humanity with the user. 
 
-#### Youngers 
+### Guidelines for a nice demo time
+
+#### Teens 
 
 As there are used to digital interactions on smartphone / tablets / computers / gaming consoles, there is no need for you to explain the steps to start the virtual reality experience. If there has been some user oriented design behind the development, young users will simply look around for clues and fond by themselves how the application is working. Apart if you have a very specific way of interacting inside the experience, juste let them search and try ! If it not obvious to them, even after your explanations, better rethink the UX of the application.
+
+#### Children
 
 Children under 13 are not advised to use headsets. First of all, the space between lens is adapted to adults and not to children. Under 13, children have a smaller inter-pupillary distance than adults and forcing their eyes into a non-adapted headset could cause permanent vision disability in worst case. In addition, some VR content is obviously not adapted to children. And last point, they should not be immersed too long in virtual reality, as we don't know yet the long-term effects of such an experience. So when children come to you to test a VR app, first of all, inform the parents of the risks and even if they don't care, explain them why it is dangerous for their kids. The point of doing that is to start to educate famillies about the use of virtual reality, with that technology becoming more and more known. Our solution is to make the children try a cardboard like Homido, that can really customize the inter-lens distance, instead of a Gear or an Oculus.
 
