@@ -8,7 +8,7 @@ categories: event
 tags:  event, unity
 image:
   feature: vision.jpg
-  topPosition: 0px
+  topPosition: -200px
 bgContrast: dark
 bgGradientOpacity: darker
 syntaxHighlighter: no
