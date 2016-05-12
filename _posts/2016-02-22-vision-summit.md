@@ -7,7 +7,7 @@ excerpt: "..."
 categories: event
 tags:  event, unity
 image:
-  feature: feedback-demos.jpg
+  feature: vision.jpg
   topPosition: 0px
 bgContrast: dark
 bgGradientOpacity: darker
